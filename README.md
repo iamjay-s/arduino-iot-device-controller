@@ -24,27 +24,7 @@ Each `.ino` file in the repo corresponds to a self-contained Arduino sketch demo
 
 ## 📁 Folder Structure
 
-├── AurduinoWithPython/ # Arduino + Python interaction
-├── AutomatedDoorLocking/ # Door locking via relay
-├── BasicWiFiManager/ # WiFi manager logic
-├── LCD/ # LCD display text
-├── LCDAreaPerimeter/ # Area + perimeter calculator
-├── LCDBasedVoltMeter/ # Voltage measurement on LCD
-├── LDR/ # Basic LDR sensing
-├── LDRControlledActuator/ # LDR triggering actuators
-├── LEDOverWiFi/ # WiFi-controlled LED
-├── PotentioMeter/ # Analog reading from potentiometer
-├── PotentioMeter2/ # Extended potentiometer logic
-├── PwdChecker/ # Password-protected logic
-├── RelayOverWiFi1/ # Relay control over WiFi
-├── RelayOverWiFi2/ # Variation with different logic
-├── RelayWithToggleSwitch/ # Manual relay toggle
-├── RelayWithToggleSwitchX2/ # Dual toggle switch control
-├── SerialMonitorBasedRelayOp/ # Serial-triggered relay operation
-├── ServoMotor/ # Control servo position
-├── TiltSwitch/ # Tilt-based state trigger
-├── TimerUpFrontToggle/ # Timed relay toggle
-└── ToggleSwitchOnOff/ # Basic on/off switch control
+<pre> ``` ├── AurduinoWithPython/ # Arduino + Python interaction ├── AutomatedDoorLocking/ # Door locking via relay ├── BasicWiFiManager/ # WiFi manager logic ├── LCD/ # LCD display text ├── LCDAreaPerimeter/ # Area + perimeter calculator ├── LCDBasedVoltMeter/ # Voltage measurement on LCD ├── LDR/ # Basic LDR sensing ├── LDRControlledActuator/ # LDR triggering actuators ├── LEDOverWiFi/ # WiFi-controlled LED ├── PotentioMeter/ # Analog reading from potentiometer ├── PotentioMeter2/ # Extended potentiometer logic ├── PwdChecker/ # Password-protected logic ├── RelayOverWiFi1/ # Relay control over WiFi ├── RelayOverWiFi2/ # Variation with different logic ├── RelayWithToggleSwitch/ # Manual relay toggle ├── RelayWithToggleSwitchX2/ # Dual toggle switch control ├── SerialMonitorBasedRelayOp/ # Serial-triggered relay operation ├── ServoMotor/ # Control servo position ├── TiltSwitch/ # Tilt-based state trigger ├── TimerUpFrontToggle/ # Timed relay toggle └── ToggleSwitchOnOff/ # Basic on/off switch control ``` </pre>
 
 ## 🚀 Usage
 
